@@ -1,0 +1,4 @@
+# Full requirements for APEX on Render
+flask>=2.0.0
+gunicorn>=20.0.0
+hermes-agent>=1.0.0
